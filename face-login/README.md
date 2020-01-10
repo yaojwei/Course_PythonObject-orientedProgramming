@@ -11,11 +11,16 @@ opencv-python： 4.1.2.30
 numpy：1.17.4  
 ## 效果图
 【登录界面】  
+![](pic/image001.png) 
 【test】  
 （1）用户不存在  
+![](pic/image002.png) 
 （2）未识别到人脸  
+![](pic/image003.png) 
 （3）登录成功  
+![](pic/image004.png) 
 【退出】  
+![](pic/image005.png) 
 
 
 
