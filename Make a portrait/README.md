@@ -1,7 +1,7 @@
 # MAKE A PORTRAIT
 ## 简介
-通过读取名人传记，得到词云图画像的程序。
-##英文版
+通过读取名人传记，得到词云图画像的程序
+## 英文版
 ### 传记
 Steve Jobs A Biography
 ### module
@@ -10,7 +10,7 @@ matplotlib.pyplot模块
 imageio.imread模块
 ### 效果图
 ![](Steve jobs.png)  
-##中文版
+## 中文版
 ### 传记
 95本中外科学家发明家传记
 ### module
