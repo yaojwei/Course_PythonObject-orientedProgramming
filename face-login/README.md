@@ -9,17 +9,17 @@
 python: 3.7.4  
 opencv-python： 4.1.2.30  
 numpy：1.17.4  
-## 效果图
+## 1.效果图
 ### 【登录界面】  
 ![](pic/image001.jpg)  
-### 【test】  
+### 2.【test】  
 #### （1）用户不存在  
 ![](pic/image002.jpg)  
 #### （2）未识别到人脸  
 ![](pic/image003.jpg)  
 #### （3）登录成功  
 ![](pic/image004.jpg)  
-### 【退出】  
+### 3.【退出】  
 ![](pic/image005.jpg)  
 ## 训练集
 将不同用户的正脸照片放在training_data/的不同的目录下，目录依次以0、1、2...命名  
