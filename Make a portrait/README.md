@@ -5,19 +5,19 @@
 ### 传记
 Steve Jobs A Biography
 ### module
-wordcloud模块
-matplotlib.pyplot模块
-imageio.imread模块
+wordcloud模块  
+matplotlib.pyplot模块  
+imageio.imread模块  
 ### 效果图
 ![](Steve jobs.png)  
 ## 中文版
 ### 传记
-95本中外科学家发明家传记
+95本中外科学家发明家传记  
 ### module
-wordcloud模块
-matplotlib.pyplot模块
-imageio.imread模块
-os模块
-jieba模块
+wordcloud模块  
+matplotlib.pyplot模块  
+imageio.imread模块  
+os模块  
+jieba模块  
 ### 效果图
 ![](Scientists and inventors.png)  
