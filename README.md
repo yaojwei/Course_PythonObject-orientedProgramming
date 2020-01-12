@@ -39,16 +39,16 @@ opencv-python： 4.1.2.30
 numpy：1.17.4  
 ## 效果图
 ### 1、【登录界面】  
-![](pic/image001.jpg)  
+![图片读取失败](pic/image001.jpg)  
 ### 2、【test】  
 #### 1）用户不存在  
-![](pic/image002.jpg)  
+![图片读取失败](pic/image002.jpg)  
 #### 2）未识别到人脸  
-![](pic/image003.jpg)  
+![图片读取失败](pic/image003.jpg)  
 #### 3）登录成功  
-![](pic/image004.jpg)  
+![图片读取失败](pic/image004.jpg)  
 ### 3、【退出】  
-![](pic/image005.jpg)  
+![图片读取失败](pic/image005.jpg)  
 ## 训练集
 将不同用户的正脸照片放在training_data/的不同的目录下，目录依次以0、1、2...命名  
 不同用户对应的名字存储在face_recognition.py中  
